@@ -158,6 +158,13 @@ Web: [A-Frame](https://aframe.io)
 [Desarrollo](https://developer.oculus.com/get-started-platform/)
 
 
+## Administrativo
+
+[Horizon Workrooms](https://www.oculus.com/experiences/quest/2514011888645651/)
+
+[Job Simulator](https://www.oculus.com/experiences/quest/3235570703151406/?locale=es_ES)
+
+
 ## Espacios en los que encontrar experiencias inmersivas de diferentes profesiones
 
 [Enlace a la tienda oficial](https://www.oculus.com/experiences/quest/)
