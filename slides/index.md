@@ -1,4 +1,4 @@
-## Las posibilidades de la RV en orientación
+## Las posibilidades de la Realidad Virtual en orientación profesional
 
 <img class="r-stretch" style="text-align: center" src="../assets/logo.png">
 ---
